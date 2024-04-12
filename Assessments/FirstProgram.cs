@@ -24,20 +24,3 @@ namespace Assessments
     
 }
 
-namespace Test1
-{
-
-    public class A
-    {
-
-    }
-}
-
-namespace Test2
-{
-
-    public class A
-    {
-
-    }
-}
